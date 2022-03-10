@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "projects": {
+    "fieloapp": "apps/fieloapp",
+    "home": "modules/home/home",
+    "homestore": "modules/home/homestore",
+    "storage": "packages/storage",
+    "services": "packages/services",
+    "uikit": "packages/uikit"
+  }
+}

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar should match snapshot 1`] = `
+<button
+  className="styles__PressableView-sc-1513d5n-0 gxXVdA"
+  onClick={[MockFunction]}
+  onMouseDown={[Function]}
+  onMouseUp={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+      "transition": "opacity 500ms ease",
+    }
+  }
+/>
+`;

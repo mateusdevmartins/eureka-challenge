@@ -1,0 +1,26 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2017", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@fieloapp/home": ["modules/home/home/src/index.ts"],
+      "@fieloapp/homestore": ["modules/home/homestore/src/index.ts"],
+      "@fieloapp/storage": ["packages/storage/src/index.ts"],
+      "@fieloapp/services": ["packages/services/src/index.ts"],
+      "@fieloapp/uikit": ["packages/uikit/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}

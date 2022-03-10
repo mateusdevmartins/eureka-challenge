@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="styles__OutterView-pgnue4-0 emxFVC"
+  data-testid="outter-radio"
+  style={
+    Object {
+      "borderColor": "#B5BAC8",
+    }
+  }
+>
+  <div
+    className="styles__InnerView-pgnue4-1 jmVbdE"
+    data-testid="inner-radio"
+    style={
+      Object {
+        "backgroundColor": "transparent",
+      }
+    }
+  />
+</div>
+`;
+
+exports[`RadioButton should match snapshot 1`] = `
+<div
+  className="styles__OutterView-pgnue4-0 emxFVC"
+  style={
+    Object {
+      "borderColor": "#B5BAC8",
+    }
+  }
+>
+  <div
+    className="styles__InnerView-pgnue4-1 jmVbdE"
+    style={
+      Object {
+        "backgroundColor": "transparent",
+      }
+    }
+  />
+</div>
+`;
+
+exports[`RadioButton should match snapshot behavior 1`] = `
+<div
+  className="styles__OutterView-pgnue4-0 emxFVC"
+  data-testid="outter-radio"
+  style={
+    Object {
+      "borderColor": "#B5BAC8",
+    }
+  }
+>
+  <div
+    className="styles__InnerView-pgnue4-1 jmVbdE"
+    data-testid="inner-radio"
+    style={
+      Object {
+        "backgroundColor": "transparent",
+      }
+    }
+  />
+</div>
+`;

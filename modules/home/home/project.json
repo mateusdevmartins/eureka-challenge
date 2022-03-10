@@ -1,0 +1,23 @@
+{
+  "root": "modules/home/home",
+  "sourceRoot": "modules/home/home/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["modules/home/home/**/*.{ts,tsx,js,jsx}"]
+      }
+    },
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/modules/home/home"],
+      "options": {
+        "jestConfig": "modules/home/home/jest.config.js",
+        "passWithNoTests": true
+      }
+    }
+  }
+}

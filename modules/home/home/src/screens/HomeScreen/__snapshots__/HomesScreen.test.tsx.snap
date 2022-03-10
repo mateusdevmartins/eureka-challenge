@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar should match snapshot 1`] = `
+<div
+  className="styles__MainView-sc-1mf3dib-1 kjwRaq"
+  style={
+    Object {
+      "backgroundImage": "url(undefined)",
+    }
+  }
+>
+  <div
+    className="styles__LogoView-sc-1mf3dib-3 eZYvwz"
+  >
+    <img
+      className="styles__LogoImage-sc-1mf3dib-0 iUukRh"
+      src=""
+    />
+  </div>
+  <div
+    className="styles__ContentView-sc-1mf3dib-2 bDvcKl"
+  >
+    <div
+      className="styles__OutterView-m7ssp0-0 cFOpin"
+    >
+      <div
+        className="styles__InnerView-m7ssp0-1 zdZa-d"
+      >
+        <div
+          className="styles__MainView-sc-9awpl6-0 fbRiBg"
+        >
+          <div
+            className="styles__ListItemContainer-sc-9awpl6-1 ftIQND"
+          >
+            <h1
+              className="styles__ColumnTitle-sc-9awpl6-2 hfbWlz"
+              style={
+                Object {
+                  "width": "24px",
+                }
+              }
+            >
+              Pos.
+            </h1>
+            <h1
+              className="styles__ColumnTitle-sc-9awpl6-2 hfbWlz"
+            >
+              Member
+            </h1>
+          </div>
+          <h1
+            className="styles__ColumnTitle-sc-9awpl6-2 hfbWlz"
+          >
+            Points
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
