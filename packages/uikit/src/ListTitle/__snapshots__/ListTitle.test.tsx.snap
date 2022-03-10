@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Avatar  should match snapshot 1`] = `
+exports[`ListTitle  should match snapshot 1`] = `
 <div
   className="styles__MainView-sc-9awpl6-0 fbRiBg"
 >
@@ -27,37 +27,6 @@ exports[`Avatar  should match snapshot 1`] = `
     className="styles__ColumnTitle-sc-9awpl6-2 hfbWlz"
   >
     Pontos
-  </h1>
-</div>
-`;
-
-exports[`Avatar should match snapshot 1`] = `
-<div
-  className="styles__MainView-sc-9awpl6-0 fbRiBg"
->
-  <div
-    className="styles__ListItemContainer-sc-9awpl6-1 ftIQND"
-  >
-    <h1
-      className="styles__ColumnTitle-sc-9awpl6-2 hfbWlz"
-      style={
-        Object {
-          "width": "24px",
-        }
-      }
-    >
-      20
-    </h1>
-    <h1
-      className="styles__ColumnTitle-sc-9awpl6-2 hfbWlz"
-    >
-      Mateus
-    </h1>
-  </div>
-  <h1
-    className="styles__ColumnTitle-sc-9awpl6-2 hfbWlz"
-  >
-    100
   </h1>
 </div>
 `;

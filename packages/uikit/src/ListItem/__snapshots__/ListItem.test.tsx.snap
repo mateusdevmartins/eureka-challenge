@@ -1,8 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Avatar should match snapshot 1`] = `
+exports[`ListItem  should match snapshot 1`] = `
 <button
   className="styles__PressableView-sc-1513d5n-0 gxXVdA"
+  data-testid="pressable"
   onClick={[MockFunction]}
   onMouseDown={[Function]}
   onMouseUp={[Function]}
@@ -23,6 +24,7 @@ exports[`Avatar should match snapshot 1`] = `
     </h1>
     <div
       className="styles__AvatarView-khcs16-1 dWsHvG"
+      data-testid="empty-avatar"
       style={
         Object {
           "borderRadius": "24px",

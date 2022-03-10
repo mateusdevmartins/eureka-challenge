@@ -1,11 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Avatar should match snapshot 1`] = `
+exports[`ContentContainer  should match snapshot 1`] = `
 <div
   className="styles__OutterView-m7ssp0-0 cFOpin"
+  data-testid="outter-view"
 >
   <div
     className="styles__InnerView-m7ssp0-1 zdZa-d"
+    data-testid="inner-view"
   >
     <div />
   </div>
