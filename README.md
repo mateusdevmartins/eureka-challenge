@@ -36,4 +36,4 @@ O foco foi testar os components do UIKit. Usando o Jest e o testing-library/reac
 
 - **npm install**: para instalar as dependências do projeto.
 - **npx nx serve fieloapp**: para iniciar a aplicação. http://localhost:4200/, http://127.0.0.1:4200/.
-- **nx test uikit ** para rodar os testes do projeto uikit.
+- **nx test uikit** para rodar os testes do projeto uikit.
